@@ -1,4 +1,4 @@
-# Auth 0 | Product Design Ideas
+# Auth0 | Product design ideas
 
 * 1\. folder 
     * 1.1\. item name
