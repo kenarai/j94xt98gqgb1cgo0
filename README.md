@@ -6,11 +6,10 @@ Please see [this video](https://www.youtube.com/watch?v=r9LolFc2Wj0) for the lan
 
 If you want to see my portfolio, [click here](http://kenarai.github.io/).
 
-Thank you!
+=====================
 
-
-
-* 1\. folder 
-    * 1.1\. item name
-    * 1.2\. item name
-* 2\. folder 
+* 1\. png 
+    * 1.1\. dashboard
+    * 1.2\. landing_page
+* 2\. resume 
+* 3\. sketch
