@@ -13,3 +13,4 @@ If you want to see my portfolio, [click here](http://kenarai.github.io/).
     * 1.2\. landing_page
 * 2\. resume 
 * 3\. sketch
+* 4\. zip
